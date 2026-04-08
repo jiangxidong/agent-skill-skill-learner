@@ -4,9 +4,9 @@ All generated documents must follow these conventions strictly.
 
 ## Language
 
-- **Mixed Chinese-English**: Use English for topic names, key points, dimension names, technical
-  terms, and conceptual summaries. Use Chinese for detailed descriptions and explanations.
-- Prompt templates: Mixed — key instructions in English, context descriptions in Chinese.
+- **English only**: All content — topic names, key points, dimension names, technical terms,
+  conceptual summaries, detailed descriptions, and explanations — must be written in English.
+- Prompt templates: English only — both key instructions and context descriptions.
 
 ## Formatting
 
