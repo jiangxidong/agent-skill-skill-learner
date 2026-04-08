@@ -1,10 +1,10 @@
-# claude-code-skill-learner
+# agent-skill-skill-learner
 
-![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-blue?style=flat&logo=anthropic)
+![Claude Code](https://img.shields.io/badge/Agent_Skill-Skill-blue?style=flat&logo=anthropic)
 ![Developer Tools](https://img.shields.io/badge/Developer_Tools-green?style=flat&logo=bookstack)
 ![AI](https://img.shields.io/badge/AI-Powered-purple?style=flat)
 
-A Claude Code skill that analyzes agent skill repos and generates structured learning documentation with actionable prompt templates.
+An agent skill that analyzes agent skill repos and generates structured learning documentation with actionable prompt templates.
 
 ## Problem
 
